@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ng-B
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning pen test methods and  network security
-- 💞️ I’m looking for a cybersecurity internship in around Paris 
+- 🔓  I’m interested in Cybersecurity
+- 🏆 I’m currently learning pen test methods and  network security
+- 👨‍💻 I’m looking for a cybersecurity internship in around Paris 
 - 📫 How to reach me : naodg68@gmail.com
 
 <!---
