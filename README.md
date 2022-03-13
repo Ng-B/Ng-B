@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Ng-B
+- 👋 Hi, 
 - 🔓  I’m interested in Cybersecurity
 - 🏆 I’m currently learning pen test methods and  network security
-- 📫 How to reach me : naodg68@gmail.com
 
 <!---
 Ng-B/Ng-B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
